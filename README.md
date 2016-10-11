@@ -16,11 +16,11 @@ $ npm install -g vns-cli
 
 ```
 # Generate template
-$ npm init gulp-webapp
-$ npm init gulp-webapp destinationFolder
+$ vns init gulp-webapp
+$ vns init gulp-webapp destinationFolder
 
 # List available templates
-$ npm list
+$ vns list
 ```
 
 ## Related
