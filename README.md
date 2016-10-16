@@ -4,7 +4,7 @@
 
 > Command line interface for web application
 
-[![asciicast](https://asciinema.org/a/c6xamvqyg7799nsdssr418kiv.png)](https://asciinema.org/a/c6xamvqyg7799nsdssr418kiv)
+[![asciicast](https://asciinema.org/a/c6xamvqyg7799nsdssr418kiv.png)](https://asciinema.org/a/c6xamvqyg7799nsdssr418kiv?autoplay=1)
 
 ## Install
 
